@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@rollup/plugin-json": "^4.1.0",
-    "ipfs": "^0.55.4",
+    "ipfs": "^0.66.0",
     "sirv-cli": "^1.0.0"
   }
 }
